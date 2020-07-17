@@ -1,0 +1,22 @@
+{"data":
+    {"new_connection":{
+        "connected" : "true",
+        "conn":"a" ,
+        "addr":"123.123.123" 	
+        
+    },
+        "message":{
+            "msg":"",
+            "sender_conn":""
+        }
+    
+
+    }
+
+
+
+
+
+}
+
+
